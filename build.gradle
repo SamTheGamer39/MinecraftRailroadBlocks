@@ -12,7 +12,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '0.3.1'
+version = '0.3.2'
 group = 'io.github.samthegamer39.railroadblocks' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'railroadblocks'
 
