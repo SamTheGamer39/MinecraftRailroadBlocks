@@ -2,20 +2,23 @@
   "homepage": "https://github.com/SamTheGamer39/MinecraftRailroadBlocks",
   "1.18.2": {
     "0.3.1": "Added Blue Flag",
-    "0.3.2": "Updated Forge Version Support"
+    "0.3.2": "Updated Forge Version Support",
+    "0.3.3": "Fixed Minor Translation Issue"
   },
   "1.18.1": {
-    "0.3.2": "Updated Forge Version Support"
+    "0.3.2": "Updated Forge Version Support",
+    "0.3.3": "Fixed Minor Translation Issue"
   },
   "1.18": {
-    "0.3.2": "Updated Forge Version Support"
+    "0.3.2": "Updated Forge Version Support",
+    "0.3.3": "Fixed Minor Translation Issue"
   },
   "promos": {
-    "1.18.2-latest": "0.3.2",
-    "1.18.2-recommended": "0.3.2",
-    "1.18.1-latest": "0.3.2",
-    "1.18.1-recommended": "0.3.2",
-    "1.18-latest": "0.3.2",
-    "1.18-recommended": "0.3.2"
+    "1.18.2-latest": "0.3.3",
+    "1.18.2-recommended": "0.3.3",
+    "1.18.1-latest": "0.3.3",
+    "1.18.1-recommended": "0.3.3",
+    "1.18-latest": "0.3.3",
+    "1.18-recommended": "0.3.3"
   }
 }
